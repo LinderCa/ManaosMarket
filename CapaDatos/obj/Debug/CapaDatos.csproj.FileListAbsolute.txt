@@ -1,0 +1,21 @@
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\CapaDatos\bin\Debug\CapaDatos.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\CapaDatos\obj\Debug\CapaDatos.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb
