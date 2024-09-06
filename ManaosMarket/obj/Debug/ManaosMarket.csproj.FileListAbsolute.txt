@@ -1,0 +1,111 @@
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\bin\Debug\ManaosMarket.exe.config
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\bin\Debug\ManaosMarket.exe
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\bin\Debug\ManaosMarket.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmPrincipal.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.Properties.Resources.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.exe
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmIniciarSesion.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmControlAsistencia.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmCancelarContrato.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmImpresionBoleta.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.RJTexBox.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarEmpleado.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmJustificarTardanza.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarVacaciones.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionamientoContrato.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarPermisos.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\bin\Debug\ManaosMarket.exe.config
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\bin\Debug\ManaosMarket.exe
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\bin\Debug\ManaosMarket.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmControlAsistencia.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmCancelarContrato.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionamientoContrato.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarEmpleado.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarVacaciones.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarPermisos.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmImpresionBoleta.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmIniciarSesion.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmJustificarTardanza.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmPrincipal.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.Properties.Resources.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.RJTexBox.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.exe
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\bin\Debug\CapaNegocio.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\bin\Debug\CapaNegocio.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.csproj.CopyComplete
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.frmIniciarSesionAdministrador.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\bin\Debug\CapaDatos.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\bin\Debug\CapaDatos.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\bin\Debug\CapaDatos.dll.config
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmCodigoGenerado.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\UNIDAD I\DISEÑO DE INTERFACEZ\ManaosMarket - copia\ManaosMarket\obj\Debug\ManaosMarket.FrmGenerarCarnet.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\ManaosMarket.exe.config
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\ManaosMarket.exe
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\ManaosMarket.pdb
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaDatos.dll
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaNegocio.dll
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaDatos.pdb
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaDatos.dll.config
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaNegocio.pdb
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.AssemblyReference.cache
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.SuggestedBindingRedirects.cache
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmCodigoGenerado.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmControlAsistencia.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmCancelarContrato.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGenerarCarnet.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionamientoContrato.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarEmpleado.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarVacaciones.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarPermisos.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmImpresionBoleta.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.frmIniciarSesion.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.frmIniciarSesionAdministrador.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmJustificarTardanza.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmPrincipal.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.Properties.Resources.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.RJTexBox.resources
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.GenerateResource.cache
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.CoreCompileInputs.cache
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.CopyComplete
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.exe
+D:\LINDER\DATOS-D\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\ManaosMarket.exe.config
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\ManaosMarket.exe
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\ManaosMarket.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaDatos.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaNegocio.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaDatos.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaDatos.dll.config
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\bin\Debug\CapaNegocio.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmCodigoGenerado.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmControlAsistencia.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmCancelarContrato.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGenerarCarnet.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionamientoContrato.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarEmpleado.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarVacaciones.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmGestionarPermisos.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmImpresionBoleta.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.frmIniciarSesion.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.frmIniciarSesionAdministrador.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmJustificarTardanza.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.FrmPrincipal.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.Properties.Resources.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.RJTexBox.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.csproj.CopyComplete
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.exe
+D:\UNIVERSIDAD\Ciclo 2022-II\ING. DE LA INFORMACIÓN II\PROYECTO-FINAL-LINDERCASAS\Aplicacion\ManaosMarket-ProyectoFinal\ManaosMarket\obj\Debug\ManaosMarket.pdb
